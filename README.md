@@ -8,15 +8,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Languages: Spanish-Native; English-B1-
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Tools: Python, SQL
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Start a chat with me: ⤵️
 </p>
 
 <p align="left">
